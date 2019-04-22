@@ -7,7 +7,7 @@ Enter the first number, then the desired operator. Enter the second number and y
 
 
 
-## Installation
+## Execute
 
 Windows:
 
@@ -15,7 +15,30 @@ Windows:
 Calculator.exe
 ```
 
+or
 
+```csharp
+Visual Studio: Start "Calculator.Program" Program.cs SHIFT + F5
+```
+
+
+
+## **Technologies**
+
+Created with
+
+- [ ] Microsoft Visual Studio 2017
+- [ ] .NET Core 2.1
+
+Programming language:
+
+- [ ] C#
+
+Application style:
+
+- [ ] Console
+
+  
 
 ## Release History
 
